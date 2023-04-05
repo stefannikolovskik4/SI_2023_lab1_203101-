@@ -1,0 +1,11 @@
+commit b299b737f2405b5804a9cbb2146c2d9fbaa8474e (HEAD -> master, origin/master)
+Author: unknown <stefann.nikolovski@gmail.com>
+Date:   Wed Apr 5 23:49:27 2023 +0200
+
+    Add java class
+
+commit 44a7dc4426b7f851f8aa42b62407f2c8f115ce7f
+Author: unknown <stefann.nikolovski@gmail.com>
+Date:   Wed Apr 5 23:10:02 2023 +0200
+
+    Initial commit

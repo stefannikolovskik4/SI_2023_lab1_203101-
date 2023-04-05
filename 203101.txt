@@ -1,0 +1,8 @@
+4. Inicijalizacija so git init
+5.povrzuvanje poskapen so odalecen repozitorium so komanda gi remote add origin https..
+6. notepad README.md -> otvaranje nov .txt file
+git add README.md -> dodavanje na file-ot
+git commit -m "Initial commit" -> pravenje commit na file-ot
+7.git add SILab1/java -> dodavanje na java file-ot
+git commit -m "Addjava class" -> pravenje commit na file-ot
+8.git push -- all -> sinhronizacija
